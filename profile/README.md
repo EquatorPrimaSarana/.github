@@ -7,8 +7,8 @@ Kami adalah perusahaan yang bergerak di bidang Konstruksi Telekomunikasi, dalam 
 Kami bisa berkontribusi untuk pengembangan berbagai aplikasi yang bisa meningkatkan produktivitas agar pekerjaan menjadi lebih efisien sehingga para pekerja bisa lebih bahagaia
 
 ### Kontributor kami
-Rendi Gunawan - @rendinawan <br>
-Ramadani - @RAMADANIX
+Rendi Gunawan - [Github](https://github.com/rendinawan) [Telegram](https://t.me/rendinawan) <br>
+Ramadani - [Telegram](https://t.me/RAMADANIX)
 
 <!--
 
